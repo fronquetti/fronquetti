@@ -1,7 +1,7 @@
 # Olá 
 
-*Camila Fronquetti
+Camila Fronquetti
 
-*18 anos
+18 anos
 
-*Cursando Técnico de Informática-2/4
+Cursando Técnico de Informática-2/4
